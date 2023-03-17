@@ -1,0 +1,1 @@
+This is Azure Data Enginnering repo and it contains all note.
